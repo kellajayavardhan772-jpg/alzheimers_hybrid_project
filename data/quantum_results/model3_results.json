@@ -1,0 +1,13 @@
+{
+  "model": "Model3_RF+PCA+QuantumKernel+SVM",
+  "n_qubits": 10,
+  "n_train_used": 300,
+  "n_test_used": 150,
+  "accuracy": 0.3466666666666667,
+  "precision": 0.3509993457032456,
+  "recall": 0.3466666666666667,
+  "f1": 0.340092732249595,
+  "train_time_s": 1.6972655999998096,
+  "pred_time_s": 0.0003639999995357357,
+  "roc_auc": NaN
+}

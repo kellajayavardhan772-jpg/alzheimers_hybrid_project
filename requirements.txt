@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+pillow
+matplotlib
+scikit-learn
+joblib
+torch
+torchvision
+xgboost
+kaggle
+qiskit
+qiskit-machine-learning
+qiskit-aer

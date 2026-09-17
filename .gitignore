@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.env
+
+# Node & Frontend
+node_modules/
+website/node_modules/
+website/dist/
+.DS_Store
+
+# Large datasets & heavy raw image directories (keep manifest & scripts)
+data/oasis_data/
+data/preprocessed/
+data/features/
+*.npy
+*.joblib

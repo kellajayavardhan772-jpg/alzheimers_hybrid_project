@@ -1,0 +1,6 @@
+{
+  "n_components": 10,
+  "variance_retained": 0.7389853000640869,
+  "top_k_rf_features": 128,
+  "max_qubits": 10
+}
