@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: alzheimers-frontend
+    env: docker
+    dockerfilePath: ./website/Dockerfile
+    dockerContext: ./website
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 80
+
+  - type: web
+    name: alzheimers-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 8000
