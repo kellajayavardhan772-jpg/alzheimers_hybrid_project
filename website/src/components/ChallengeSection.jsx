@@ -11,28 +11,28 @@ export default function ChallengeSection() {
       desc: "Alzheimer's disease damages neural pathways long before clinical memory loss becomes apparent. Understanding early structural alterations requires deep spatial analysis.",
       metric: "Early Window",
       tag: "PATHOLOGY",
-      image: "/images/mri_coronal_slice.png",
+      image: "images/mri_coronal_slice.png",
     },
     {
       title: "Diagnostic Complexity & Multi-modal Assessment",
       desc: "Definitive early diagnosis can be challenging and often requires combining cognitive batteries, CSF biomarkers, and high-resolution neuroimaging.",
       metric: "Multi-Modal",
       tag: "DIAGNOSTICS",
-      image: "/images/eeg_coherence.png",
+      image: "images/eeg_coherence.png",
     },
     {
       title: "Structural Biomarkers in Medical Imaging",
       desc: "T1-weighted structural MRI scans contain subtle morphometric signals, such as hippocampal shrinkage and ventricular enlargement, that are difficult to quantify manually.",
       metric: "T1 Structural MRI",
       tag: "NEUROIMAGING",
-      image: "/images/mri_3d_ventricular.png",
+      image: "images/mri_3d_ventricular.png",
     },
     {
       title: "AI-Assisted Pattern Recognition",
       desc: "Deep learning convolution filters extract fine-grained spatial features across coronal and sagittal brain slices to aid researchers in objective multi-stage classification.",
       metric: "Feature Extraction",
       tag: "DEEP LEARNING",
-      image: "/images/gradcam_heatmap.png",
+      image: "images/gradcam_heatmap.png",
     },
   ];
 

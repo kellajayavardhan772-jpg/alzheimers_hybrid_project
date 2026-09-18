@@ -139,7 +139,7 @@ export default function AboutSection() {
                 }}
               >
                 <img
-                  src="/images/mri_coronal_slice.png"
+                  src="images/mri_coronal_slice.png"
                   alt="Coronal T1 3D MRI Slice"
                   style={{
                     width: "100%",

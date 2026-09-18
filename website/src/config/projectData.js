@@ -72,7 +72,7 @@ export const CLASSIFICATION_CLASSES = [
     count: "3,200 Scans (50.0%)",
     typicalFeatures: ["Preserved Hippocampus Volume", "Symmetrical Ventricles", "Intact Sulci & Gyri Structure"],
     confidenceTarget: "98.4%",
-    image: "/images/class_non_demented.png",
+    image: "images/class_non_demented.png",
   },
   {
     id: "class-02",
@@ -84,7 +84,7 @@ export const CLASSIFICATION_CLASSES = [
     count: "1,792 Scans (28.0%)",
     typicalFeatures: ["Minor Entorhinal Cortex Thinning", "Early Ventricular Dilatation", "Subtle Hippocampal Atrophy"],
     confidenceTarget: "96.8%",
-    image: "/images/class_very_mild_demented.png",
+    image: "images/class_very_mild_demented.png",
   },
   {
     id: "class-03",
@@ -96,7 +96,7 @@ export const CLASSIFICATION_CLASSES = [
     count: "896 Scans (14.0%)",
     typicalFeatures: ["Widened Cerebral Sulci", "Moderate Hippocampal Loss", "Temporal Lobe Volume Reduction"],
     confidenceTarget: "97.6%",
-    image: "/images/class_mild_demented.png",
+    image: "images/class_mild_demented.png",
   },
   {
     id: "class-04",
@@ -108,7 +108,7 @@ export const CLASSIFICATION_CLASSES = [
     count: "512 Scans (8.0%)",
     typicalFeatures: ["Severe Ventricular Enlargement", "Advanced Hippocampal Volume Reduction", "Diffused Cortical Shrinkage"],
     confidenceTarget: "99.2%",
-    image: "/images/class_moderate_demented.png",
+    image: "images/class_moderate_demented.png",
   },
 ];
 
